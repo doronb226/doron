@@ -1,0 +1,9 @@
+﻿body {
+    font-family: 'Segoe UI', sans-serif;
+    direction : ltr;
+    text-align : right;
+}
+
+span {
+    font-style: italic;
+}
